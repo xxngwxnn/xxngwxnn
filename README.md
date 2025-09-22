@@ -16,7 +16,11 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           </div>
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxngwxnn)
     </div>
+
+
     
 # 🕵️‍♀️About Me
 
@@ -24,6 +28,5 @@
 <a href="https://www.instagram.com/xxngwxnn?igsh=MW5udjR0cWZoZDdhNg%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a> 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxngwxnn)
 
 
